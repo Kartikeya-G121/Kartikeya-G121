@@ -12,7 +12,6 @@
 <p align="center">
   I’m <b>Kartikeya Gupta</b>, a <b>Computer Science and Business Systems</b> student at BMS College of Engineering, Bangalore,  running towards excellence..
 </p>  
-##
 
 ### 💻Currently Working on:-
 - **🌐 Web Development** – From Advanced HTML5 and CSS to learning Intermediate Bootstrap and other frameworks.
