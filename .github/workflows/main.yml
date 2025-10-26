@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: Kartikeya-G121
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
       - name: Push Snake SVG to output branch
