@@ -1,12 +1,12 @@
 
 <h1 align="center">This is <span style="color:#5D8BF4;">Kartikeya Gupta.</span></h1>
 <h2 align="center"> GenAI-ML Enthusiast | Open-Source Contributer | Pre-Final Year Student</h3>
-<h3 align="center">I have become a Developer, the destroyer of bugs.</h2>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5622AQGoXFSQAk18cA/feedshare-shrink_1280/B56ZofOhTxI0As-/0/1761460493009?e=1762992000&v=beta&t=BmdTJX-ehGlfjFIGWIiEmmeNfIwVYy24w_0XD98tLvc"     alt="Hacker_animation">
 </p>
 
+<h3 align="center">I have become a Developer, the destroyer of bugs.</h2>
 
 ###
 <p align="center">
