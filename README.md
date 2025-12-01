@@ -3,7 +3,7 @@
 <h2 align="center"> GenAI-ML Enthusiast | Open-Source Contributer | Pre-Final Year Student</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQGoXFSQAk18cA/feedshare-shrink_1280/B56ZofOhTxI0As-/0/1761460493009?e=1762992000&v=beta&t=BmdTJX-ehGlfjFIGWIiEmmeNfIwVYy24w_0XD98tLvc"     alt="Hacker_animation">
+  <img  align="center" width="500" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 </p>
 
 <h3 align="center">I have become a Developer, the destroyer of bugs.</h2>
