@@ -26,10 +26,20 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartikeya-G121&layout=compact&theme=dracula" height="150" />
-
+   <img src="https://github-profile-trophy.vercel.app/?username=Kartikeya-G121&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"     alt="trophy graph" height="150" />
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ###
 ## 🛠 Skills
