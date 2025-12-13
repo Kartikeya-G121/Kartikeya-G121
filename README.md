@@ -1,5 +1,5 @@
 
-<h1 align="center">This is <span style="color:#5D8BF4;">Kartikeya Gupta.</span></h1>
+<h1 align="center"><span style="color:#5D8BF4;">Kartikeya Gupta</span></h1>
 <h2 align="center"> GenAI-ML Enthusiast | Open-Source Contributer | Pre-Final Year Student</h3>
 
 <p align="center">
