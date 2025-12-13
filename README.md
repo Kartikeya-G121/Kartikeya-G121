@@ -20,6 +20,9 @@
 ##
 
 ### About Me:-
+- **SIH'25 Finalist**
+- **Contributor** at **Hacktoberfest**
+- **Contributor** at **Winter of CodeSocial**
 - **Ex-Generative AI Intern** at **HI-Devs** for 4 months.
 - **Sherlock** Fanatic.
 - **Favorite Quote** - "You never wrong to do the right thing".
