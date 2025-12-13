@@ -15,7 +15,7 @@
 
 ### 💻Currently Working on:-
 - **🌐 Web Development** – From Advanced HTML5 and CSS to learning Intermediate Bootstrap and other frameworks.
-- **🏆 Competitive Programming** – Solved **450+ problems** on **Leetcode**.
+- **🏆 Competitive Programming** – Solved **500+ problems** on **Leetcode**.
 
 ##
 
@@ -25,21 +25,32 @@
 - **Favorite Quote** - "You never wrong to do the right thing".
 
 ###
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Kartikeya-G121&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"     alt="trophy graph" height="150" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya-G121&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+        width="400"
+      />
+    </td>
+    <td align="center">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true"
+          width="400"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 ###
 ## 🛠 Skills
