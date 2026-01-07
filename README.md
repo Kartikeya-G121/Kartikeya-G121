@@ -2,6 +2,10 @@
 <h1 align="center"><span style="color:#5D8BF4;">Kartikeya Gupta</span></h1>
 <h2 align="center"> GenAI-ML Enthusiast | Open-Source Contributer | Pre-Final Year Student</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paras-ydv&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</div>
+
 <p align="center">
   <img  align="center" width="500" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 </p>
