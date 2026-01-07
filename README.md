@@ -18,7 +18,7 @@
 - **🏆 Competitive Programming** – Solved **500+ problems** on **Leetcode**.
 
 ##
-
+https://counter.kuber.studio/Kartikeya-G121/hacker/count.svg
 ### About Me:-
 - **SIH'25 Finalist**
 - **Contributor** at **Hacktoberfest**
