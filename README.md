@@ -3,7 +3,7 @@
 <h2 align="center"> GenAI-ML Enthusiast | Open-Source Contributer | Pre-Final Year Student</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paras-ydv&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kartikeya-G121&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </div>
 
 <p align="center">
