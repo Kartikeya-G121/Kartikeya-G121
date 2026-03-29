@@ -32,31 +32,9 @@
 - **Favorite Quote** - "You never wrong to do the right thing".
 
 ###
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya-G121&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
-        width="400"
-      />
-    </td>
-    <td align="center">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true"
-        />
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Kartikeya-G121&show_icons=true"
-          width="400"
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kartikeya-G121&theme=dracula&hide_border=false" width="36%" alt="streak graph"/>
+</div>
 
 
 ###
