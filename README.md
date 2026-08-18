@@ -1,6 +1,6 @@
 
 <h1 align="center"><span style="color:#5D8BF4;">Kartikeya Gupta</span></h1>
-<h2 align="center"> Full-Stack Developer at Carver Agents | Open-Source Contributer | Pre-Final Year Student</h3>
+<h2 align="center"> SWE Intern at Fidelity Investments | Open-Source Contributer | Final Year Student</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kartikeya-G121&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
@@ -18,8 +18,8 @@
 </p>  
 
 ### 💻Currently Working on:-
-- **🌐 Web Development** – From Advanced HTML5 and CSS to learning Intermediate Bootstrap and other frameworks.
-- **🏆 Competitive Programming** – Solved **500+ problems** on **Leetcode**.
+- **🌐 Web Development** – Building scalable and production grade websites.
+- **🏆 Competitive Programming** – Solved **750+ problems** on **Leetcode**.
 
 ##
 
@@ -27,6 +27,7 @@
 - **SIH'25 Finalist**
 - **Contributor** at **Hacktoberfest**
 - **Contributor** at **Winter of CodeSocial**
+- **Ex-Full Stack Intern** at **Carver Agents** for 4 months.
 - **Ex-Generative AI Intern** at **HI-Devs** for 4 months.
 - **Sherlock** Fanatic.
 - **Favorite Quote** - "You never wrong to do the right thing".
